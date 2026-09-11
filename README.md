@@ -1,8 +1,37 @@
-# React + Vite
+# AI Security Pro — Landing Page de Curso
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Protótipo público de uma landing page para curso de segurança aplicada à inteligência artificial, com apresentação de módulos, recursos, depoimentos e formulário de contato.
 
-Currently, two official plugins are available:
+> O conteúdo comercial, professores, empresas, números, certificações e depoimentos exibidos são fictícios e usados somente para demonstração de interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Stack
+
+- React
+- React Router
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+
+## Desenvolvimento
+
+```bash
+npm install
+npm run dev
+```
+
+## Verificação
+
+```bash
+npm run lint
+npm run build
+npm run preview
+```
+
+## Status
+
+Este é o repositório oficial desta demonstração. O antigo `LANDINGPAGE-AGENTS-MODELO-2` foi identificado como duplicado e deve permanecer arquivado.
+
+## Licença
+
+Código disponibilizado sob a licença MIT. Consulte `LICENSE`.
